@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frm_connexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_gererCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_gererclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_gererCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_gererProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_gereruser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
